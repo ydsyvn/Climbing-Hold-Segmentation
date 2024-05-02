@@ -1,1 +1,1 @@
-# Spray-Wall-Boulder-Genration
+# Climbing Hold Segmentation
